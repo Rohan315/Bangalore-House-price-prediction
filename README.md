@@ -1,1 +1,1 @@
-# Linera regression: Bangalore House-price-prediction
+# Linear regression: Bangalore House-price-prediction
